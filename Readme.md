@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/react/4/user/1114469).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Сергеев](https://htmlacademy.ru/profile/id1205257).
 
 ---
 
